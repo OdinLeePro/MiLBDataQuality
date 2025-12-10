@@ -45,6 +45,7 @@ The workflow includes:
 │   ├── BBOps_DQ_26FellowContact.csv
 │   └── BBOps_DQ_26FellowPitch.csv
 ├── Analysis.ipynb
+├── LICENSE
 ├── Project Instructions.pdf
 ├── TeamsData.csv
 ├── README.md
